@@ -16,3 +16,4 @@
 
 - index.html : web home
 - welcome.html : web de benvinguda
+- Pàgina Productes: mostra els productes disponibles amb informació bàsica.
